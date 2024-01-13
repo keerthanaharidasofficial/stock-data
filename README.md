@@ -1,3 +1,3 @@
 # stock-data
 # Stock Data Extraction and Visualization
-# using Web Scraping and Python libraries
+#using Web Scraping and Python libraries
